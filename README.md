@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @isaquexavier33
 - 👀 Estou viciado em programação e desenvolvimento de sites/aplicações
-- 🌱 Atualmente estou aprendendo React
+- 🌱 Atualmente estou aprendendo Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquexavier33&show_icons=true&theme=radical)
 
